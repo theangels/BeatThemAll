@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeatThemAll</string>
+    <string name="startSearching">StartSearch</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="freeMode">FreeMode</string>
+    <string name="back">Back</string>
+    <string name="start">Start</string>
+</resources>
